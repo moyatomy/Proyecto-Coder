@@ -1,0 +1,23 @@
+
+INDEX:
+	Wireframe Desktop: https://wireframe.cc/E0dxDf
+
+	Wireframe Mobile: https://wireframe.cc/2HSmlv
+
+NOSOTROS: 
+	Wireframe Desktop: https://wireframe.cc/ygMHD7
+
+	Wireframe Mobile: https://wireframe.cc/8ufuuO
+
+SERVICIO TECNICO: 
+	Wireframe Desktop: https://wireframe.cc/NBlkBq
+
+	Wireframe Mobile: https://wireframe.cc/rtllaA
+PRODUCTOS:
+	Wireframe Desktop: https://wireframe.cc/IqJlEk
+
+	Wireframe Mobile: https://wireframe.cc/m0rp8P
+CONTACTO:
+	Wireframe Desktop: https://wireframe.cc/xMfLGC
+
+	Wireframe Mobile: https://wireframe.cc/sCiv0v
